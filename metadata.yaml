@@ -1,0 +1,26 @@
+_repo: Zen-Culture_34324
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoover, Thomas
+    birthdate: 1941
+    gutenberg_agent_id: '36955'
+    url: http://www.gutenberg.org/2009/agents/36955
+description: ''
+gutenberg_issued: '2010-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34324'
+  lccn: '76050559'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Japan -- Civilization -- Zen influences'
+- !lcc 'DS'
+title: Zen Culture
+url: http://www.gutenberg.org/ebooks/34324
