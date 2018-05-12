@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '36955'
     url: http://www.gutenberg.org/2009/agents/36955
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34324#Zen-Culture
 gutenberg_issued: '2010-11-14'
 gutenberg_type: Text
 identifiers:
